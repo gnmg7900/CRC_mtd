@@ -1,1 +1,5 @@
-<ROOT/>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1656773377967" Description="Original Job" Name="MR_STG_EM_LOAN_P00100" PackageName="MR_STG_EM_LOAN_P00100.spk" UserID="sasadm@saspw" Version="8c20af9">
+<ContainObj>SBIP://METASERVER/Products/Solutions/Montepio Report/CRC/Jobs/Staging/Contratos/MR_STG_EM_LOAN_P00100(Job)</ContainObj>
+</ArchInfo>
+</ROOT>
