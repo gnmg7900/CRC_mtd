@@ -2,4 +2,7 @@
 <ArchInfo Date="1656772289539" Description="Version 1" Name="Git_Job" PackageName="Git_Job.spk" UserID="sasadm@saspw" Version="f40e7bd">
 <ContainObj>SBIP://METASERVER/User Folders/DIS_JOB(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1656771127213" Description="Version 2" Name="Git_Job_2" PackageName="Git_Job_2.spk" UserID="sasadm@saspw" Version="73eb005">
+<ContainObj>SBIP://METASERVER/DIJobs/Jobs/DIS_Job_2(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
