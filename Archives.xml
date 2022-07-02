@@ -1,1 +1,5 @@
-<ROOT/>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1656772289539" Description="Version 1" Name="Git_Job" PackageName="Git_Job.spk" UserID="sasadm@saspw" Version="f40e7bd">
+<ContainObj>SBIP://METASERVER/User Folders/DIS_JOB(Job)</ContainObj>
+</ArchInfo>
+</ROOT>
